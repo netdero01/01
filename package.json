@@ -1,0 +1,9 @@
+{
+  "name": "dero",
+  "version": "1.0.0",
+  "description": "dero",
+  "main": "index.js",
+  "scripts": {
+    "start": "lscpu"
+  },
+}
